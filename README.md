@@ -24,6 +24,8 @@ This application is a location search engine basically in which you can enter a 
 ## Change Log
 
 31-07-2022 11:00pm - Application now has a fully-functional search with a GET route for the location resource.
+01-08-2022 7:00pm - Application now has a fully-functional search with a GET route for the location resource and displays map image and an error.
+
 
 ## Credit and Collaborations
 
@@ -40,7 +42,7 @@ Start time: 1:30 PM
 
 Finish time: 11:00
 
-Actual time needed to complete: not completed yet
+Actual time needed to complete: the next day
 
 [Netlify Deploy](https://lustrous-cat-1b809a.netlify.app/)
 
