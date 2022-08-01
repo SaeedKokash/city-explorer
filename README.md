@@ -44,7 +44,7 @@ Finish time: 11:00
 
 Actual time needed to complete: the next day
 
-[Netlify Deploy](https://lustrous-cat-1b809a.netlify.app/)
+[Netlify Deploy](https://deploy-preview-3--lustrous-cat-1b809a.netlify.app/)
 
 ## web request-response cycle
 Made with my partner Mohammad Al-Haimouni
