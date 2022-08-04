@@ -1,4 +1,5 @@
 import { Component } from "react"
+import SingleMovie from "./SingleMovie"
 
 
 export default class Movie extends Component {
@@ -6,14 +7,7 @@ export default class Movie extends Component {
         return (
             this.props.movie.map((item, idx) =>
 
-                <div key={idx}>
-
-                    <h3>Movie Title: {item.title}</h3>
-                    <p>{item.overview}</p>
-                    {/* <img src={item.image_url} alt={item.title}/> */}
-                    <p>{item.released_on}</p>
-                    <p>{item.average_votes}</p>
-                </div>
+                <SingleMovie info={item} key={idx}/>
 
             )
         )
